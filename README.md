@@ -72,7 +72,4 @@ Accuracy, F1-Score, AUC-ROC, Recall, Precision, Confusion Matrix, ROC Curve
 - Android Studio
 - Google Colab (T4 GPU)
 
-## Author
-**Vansh Bhatia**
-B.E. Computer Science | MMIT, Pune
-vanshbhatia1805@gmail.com
+
